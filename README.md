@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Anuj  <br>🎓 Final-year B.Tech CSE student  <br>💻 Backend Developer | Java | Spring Boot  <br>🧠 Strong in DSA, OOP, SQL, and Computer Networks  <br>🚀 I enjoy building scalable backend systems and working on real-world projects.  <br>🛠️ Tech Stack: Java, Spring Boot, MySQL, MongoDB, REST APIs, Git, Postman  <br>📚 Currently learning: System Design, Advanced Spring Boot, and Cloud basics  <br><br>📫 Reach me at: your- yadavk.anuj21@example.com  <br>
+Hi 👋, I'm Anuj  <br>🎓 Final-year B.Tech CSE student  <br>💻 Java | Spring Boot  <br>🧠 Strong in DSA, OOP, SQL, and Computer Networks  <br>🚀 I enjoy building scalable backend systems and working on real-world projects.  <br>🛠️ Tech Stack: Java, Spring Boot, MySQL, MongoDB, REST APIs, Git, Postman  <br>📚 Currently learning: System Design, Advanced Spring Boot, and Cloud basics  <br><br>📫 Reach me at: your- yadavk.anuj21@example.com  <br>
 
 
 ## 🌐 Socials:
